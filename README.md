@@ -15,7 +15,7 @@ To get started, clone the Get_Next_Line repo and go into the folder:
 
 ```
 git clone https://github.com/nonewline/GNL
-cd GNL
+cd GNL/GNL/
 ```
 Run the following command to compile the libft and the function (Change 'main.c' to suit your main's name and 'test_gnl' to something you want.):
 
